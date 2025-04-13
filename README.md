@@ -1,3 +1,3 @@
-# Tic-Tac-toe game 
+# Tic-Tac-toe Game 
 Made using python 
 Gui interface
